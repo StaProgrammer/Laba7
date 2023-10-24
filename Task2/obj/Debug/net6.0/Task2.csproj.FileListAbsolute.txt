@@ -1,0 +1,14 @@
+C:\VS Project\Laba7\Task2\bin\Debug\net6.0\Task2.exe
+C:\VS Project\Laba7\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\VS Project\Laba7\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\VS Project\Laba7\Task2\bin\Debug\net6.0\Task2.dll
+C:\VS Project\Laba7\Task2\bin\Debug\net6.0\Task2.pdb
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.dll
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.pdb
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\VS Project\Laba7\Task2\obj\Debug\net6.0\ref\Task2.dll
